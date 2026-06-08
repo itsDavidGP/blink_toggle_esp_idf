@@ -84,3 +84,4 @@ managed_components/
 sdkconfig.old
 .vscode/
 .devcontainer/
+.clangd/
